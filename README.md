@@ -58,3 +58,4 @@ https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage
 https://rpishop.cz/bloky/5432-m5stack-esp32-ethernet-s-poe.html#tab-description
 https://www.ledshopik.cz/digitalni-rgbw-pasek-sk6812-28-8w-m-5v-96led-m-ip20-built-in-ic-x11580
 https://www.lxf.cz/klus-jaz-anodizovany/?variantId=14138&gad_source=1&gclid=Cj0KCQiAzoeuBhDqARIsAMdH14HeISv-B2pJgNxDX0dPClkx0gPvExEgsX-pzgG_0y9ATIJPV2KRc-4aAm1UEALw_wcB
+https://www.lxf.cz/klus-difuzor-jaz-mlecny/
