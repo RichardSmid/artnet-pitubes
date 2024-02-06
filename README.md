@@ -56,3 +56,4 @@ https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage
 
 ## Hardware
 https://rpishop.cz/bloky/5432-m5stack-esp32-ethernet-s-poe.html#tab-description
+https://www.ledshopik.cz/digitalni-rgbw-pasek-sk6812-28-8w-m-5v-96led-m-ip20-built-in-ic-x11580
