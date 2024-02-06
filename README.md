@@ -49,3 +49,4 @@ Expandable
 
 ## Resources
 https://github.com/grinchdubs/tdLEDpi
+https://learn.sparkfun.com/tutorials/using-artnet-dmx-and-the-esp32-to-drive-pixels/all
