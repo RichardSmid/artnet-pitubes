@@ -46,3 +46,6 @@ Expandable
 | 16 | G4   |
 | 17 | B4    |
 | 18  | W4    |
+
+## Resources
+https://github.com/grinchdubs/tdLEDpi
